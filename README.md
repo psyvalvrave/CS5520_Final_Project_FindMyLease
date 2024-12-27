@@ -3,7 +3,13 @@ This app can be running on Expo Go on both Android or IOS system.
 <br>
 Demo Video: https://www.youtube.com/watch?v=k0f0aWqtg1M
 <br>
-<br>
+## Commands
+To start the project, run the following commands in the terminal (Make sure you have Expo GO installed):
+
+```bash
+npm install
+npx expo start
+```
 **Iteration-3:**
 
 _Current state (or functionalities) of the application:_
