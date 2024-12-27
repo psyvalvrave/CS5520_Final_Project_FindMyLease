@@ -1,4 +1,5 @@
 ### CS 5520 Final Group Project with savan
+This app can be running on Expo Go on both Android or IOS system. 
 Demo Video: https://www.youtube.com/watch?v=k0f0aWqtg1M
 <br>
 <br>
